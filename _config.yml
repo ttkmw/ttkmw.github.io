@@ -7,9 +7,9 @@ resume_site:
 github: https://github.com/inDlife
 baseurl: ""
 description: my footprint on development
-meta_description: haha
-motto: independent life
-banner: Be Positive
+meta_description:
+motto: Independent Life
+banner: Independent Lifes
 
 
 
