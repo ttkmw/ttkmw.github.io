@@ -1,12 +1,12 @@
 # Site settings
-name: inDlife's DevLogddd
+name: inDlife's DevLog
 email: wom2277@naver.com
 author: Geunwon Lim
 url: https://indlife.github.io
 resume_site:
 github: https://github.com/inDlife
 baseurl: ""
-description: inDlife's DevLog
+description: my footprint on development
 meta_description: haha
 motto: independent life
 banner: be positive
