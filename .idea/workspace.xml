@@ -60,14 +60,6 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="135">
                 <caret line="11" selection-start-line="11" selection-end-line="11" />
-                <folding>
-                  <element signature="e#0#43#0" expanded="true" />
-                  <element signature="e#0#36#0" expanded="true" />
-                  <element signature="e#0#36#0" expanded="true" />
-                  <element signature="e#0#36#0" expanded="true" />
-                  <element signature="e#0#43#0" expanded="true" />
-                  <element signature="e#0#36#0" expanded="true" />
-                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -228,12 +220,12 @@
       <workItem from="1564294495482" duration="854000" />
       <workItem from="1564315175909" duration="17000" />
       <workItem from="1564908795596" duration="969000" />
-      <workItem from="1565520405871" duration="1805000" />
+      <workItem from="1565520405871" duration="2343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10147000" />
+    <option name="totallyTimeSpent" value="10685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -407,14 +399,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="135">
             <caret line="11" selection-start-line="11" selection-end-line="11" />
-            <folding>
-              <element signature="e#0#43#0" expanded="true" />
-              <element signature="e#0#36#0" expanded="true" />
-              <element signature="e#0#36#0" expanded="true" />
-              <element signature="e#0#36#0" expanded="true" />
-              <element signature="e#0#43#0" expanded="true" />
-              <element signature="e#0#36#0" expanded="true" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
