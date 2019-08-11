@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9b3b581-790a-48ca-8832-aca376bbe64d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-11-history02.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-11-history02.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-08-history01.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-08-history01.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +15,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-07-08-history01.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -65,12 +66,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-11-history02.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="30">
-                <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+              <first_editor>
+                <caret lean-forward="true" selection-end-line="6" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -150,11 +151,11 @@
         <option value="$PROJECT_DIR$/_posts/2019-07-27-haha.md" />
         <option value="$PROJECT_DIR$/_includes/banner.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-07-08-history01.md" />
         <option value="$PROJECT_DIR$/_posts/2019-08-04-axios-di.md" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/robots.txt" />
         <option value="$PROJECT_DIR$/_posts/2019-08-11-history02.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-07-08-history01.md" />
       </list>
     </option>
   </component>
@@ -227,12 +228,12 @@
       <workItem from="1564294495482" duration="854000" />
       <workItem from="1564315175909" duration="17000" />
       <workItem from="1564908795596" duration="969000" />
-      <workItem from="1565520405871" duration="2675000" />
+      <workItem from="1565520405871" duration="2768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11017000" />
+    <option name="totallyTimeSpent" value="11110000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -423,14 +424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-07-08-history01.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-04-axios-di.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -444,8 +437,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-11-history02.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <first_editor>
+            <caret lean-forward="true" selection-end-line="6" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-07-08-history01.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
