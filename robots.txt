@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://indlife.github.io/sitemap.xml
