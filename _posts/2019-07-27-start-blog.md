@@ -4,6 +4,9 @@ title:  블로그 시작
 date:   2019-07-27 01:08:00 +0800
 categories: etc
 tag: etc
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 안녕하세요, 저는 개발 좋아하는 inDlife라고 합니다.
