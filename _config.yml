@@ -1,15 +1,15 @@
 # Site settings
-name: inDlife's DevLog
+name: p-vibe's DevLog
 email: wom2277@naver.com
 author: Geunwon Lim
-url: https://indlife.github.io
+url: https://p-vibe.github.io
 resume_site:
-github: https://github.com/inDlife
+github: https://github.com/p-vibe
 baseurl: ""
 description: my footprint on development
 meta_description:
 motto: Enjoy My Posts
-banner: Independent Life
+banner: Positive Vibe
 
 
 
@@ -19,7 +19,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: inDlife
+github_username: p-vibe
 
 # Build settings
 markdown: kramdown
