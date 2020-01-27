@@ -9,9 +9,6 @@ sitemap :
   priority : 1.0
 
 ---
-
-# 우아한테크코스 1기 테코톡 정리
-
 이 포스트에서는 [우아한테크코스 1기 테코톡](https://www.youtube.com/watch?v=NfJjaGjVceo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH) 중 지식 공유 목적의 발표들을 정리해보겠습니다.
 
 우아한테크코스 2기에 참여할 수 있게 되면서, 1기분들이 어떤 공부를 했는 지, 어떤 고민을 했는 지 궁금해졌습니다.
