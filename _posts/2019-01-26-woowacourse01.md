@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  우아한테코크스 1기 테코톡 정리
+title:  우아한테크코스 1기 테코톡 정리
 date:   2020-01-26 22:10:00 +0800
 categories: 우아한테크코스
 tag: Computer Science
