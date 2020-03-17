@@ -1,0 +1,33 @@
+---
+layout: post
+title:  우테코 1기 분들의 프로젝트에 기여한 경험
+date:   2020-03-17 12:13:00 +0800
+categories: 우아한테크코스
+tag: history
+sitemap :
+  changefreq : daily
+  priority : 1.0
+
+
+---
+
+이 포스트에서는 우아한테크코스 1기 분들의 프로젝트 [우아크루](https://github.com/WoowaCrew/WoowaCrew)에 기여한 경험을 적겠습니다.
+
+사실 처음부터 기여할 생각이 있던 건 아니었습니다. 우테코 미션을 수행하면서 제 개인 프로젝트를 하는 것도 빠듯하다고 생각해서 다른 분의 프로젝트에 기여할 여력이 없었거든요. 우아크루에 기여하게 된 계기는 우아크루를 이용하려고 했던 것입니다. 우테코 2기에 1기분들이 와서 프로젝트를 소개하실 때 우아크루에서 다른 1기분들의 프로젝트를 볼 수 있다고 하셨던 것 같아서 어떤 프로젝트들이 있나 보려고 구글에 우아크루를 검색했습니다.
+
+![우아크루검색](https://dl.dropbox.com/s/h3392jo0s1jnlwr/%EC%9A%B0%EC%95%84%ED%81%AC%EB%A3%A8%EA%B2%80%EC%83%89.png) 
+
+검색했을 때 가장 먼저 나오는 게 우아크루의 깃허브였습니다. 그래서 한 번 들어가봤고, 이슈들을 볼 수 있었습니다. 그 중 'axios 통일'이라는 이슈가 눈에 띄었습니다.
+
+![axios통일이슈](https://dl.dropbox.com/s/hj8v010p6bxwf54/axios%ED%86%B5%EC%9D%BC%EC%9D%B4%EC%8A%88.png)
+
+이전에 vue를 쓸 때 저도 비슷한 이슈를 겪었고, 그 때 경험을 블로그에 적을만큼([이 글](https://p-vibe.github.io/2019/08/04/axios-di/)) 저에겐 재밌는 이슈였기 때문입니다. 이슈를 등록하신 쉐이크반은 자기가 할 생각이셨기 때문에 이슈에 대한 설명을 구체적으로 적진 않으셨는데요. 그래서 axios 통일이라는 이슈가 제가 생각하는 이슈인 지 확인하기 위해 코드를 봤는데, 제가 생각한 이슈가 맞는 것 같았어요. 한 번 해봤기 빠르게 할 수 있을 것 같아서 댓글로 해보고 싶다고 적었습니다.
+
+![axios이슈댓글](https://dl.dropbox.com/s/og1uhy93a0408lw/axios%EC%9D%B4%EC%8A%88%EC%97%90%EB%8C%93%EA%B8%80.png)
+
+프로젝트 참여자이신 효오가 dm으로 해봐도 된다고 하셔서 코딩 후 [pr](https://github.com/WoowaCrew/WoowaCrew/pull/356)을 보냈습니다.
+
+![pr](https://dl.dropbox.com/s/xy8f1ag93j17xz8/pr.png)
+
+쉐이크반, 효오와 댓글로 의견 교환 후, 머지됐습니다. 의견 교환 내용은 너무 길어서, 혹시나 궁금하신 분은 [pr](https://github.com/WoowaCrew/WoowaCrew/pull/356)에서 보시면 될 것 같습니다.
+
