@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  우테코 1기 분들의 프로젝트에 기여한 경험
+title:  우테코 1기분들의 프로젝트에 기여한 경험
 date:   2020-03-17 12:13:00 +0800
 categories: 우아한테크코스
 tag: history
