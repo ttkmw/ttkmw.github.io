@@ -10,6 +10,17 @@ description: my footprint on development
 meta_description:
 motto: Enjoy My Posts
 banner: Positive Vibe
+lsi: false
+safe: true
+source: https://p-vibe.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
 
 
 
