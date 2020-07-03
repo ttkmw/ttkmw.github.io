@@ -1,10 +1,10 @@
 # Site settings
-name: p-vibe's DevLog
+name: ihoph's DevLog
 email: wom2277@naver.com
 author: Geunwon Lim
-url: https://p-vibe.github.io
+url: https://ihoph.github.io
 resume_site:
-github: https://github.com/p-vibe
+github: https://github.com/ihoph
 baseurl: ""
 description: my footprint on development
 meta_description:
@@ -12,7 +12,7 @@ motto: Enjoy My Posts
 banner: Positive Vibe
 lsi: false
 safe: true
-source: https://p-vibe.github.io
+source: https://ihoph.github.io
 incremental: false
 highlighter: rouge
 gist:
@@ -30,7 +30,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: p-vibe
+github_username: ihoph
 
 # Build settings
 markdown: kramdown
