@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  우아한 redis 정리
+title:  우아한 Redis 정리
 date:   2020-07-06 01:43:00 +0800
 categories: 책/강의
 tag: db
@@ -8,8 +8,6 @@ sitemap :
   changefreq : daily
   priority : 1.0
 ---
-
-# 우아한 Redis 정리
 
 이 포스트는 [이 세미나](https://www.youtube.com/watch?v=mPB2CZiAkKM)를 보고 정리한 것입니다. 사실 redis를 처음으로 써보면서, 초보자를 위한 redis 사용 팁 등을 알고자 영상을 봤는데 제가 이해하기엔 어려운 강의였습니다. 실무자들이 사용하면서 생길만한 이슈들을 얘기해주시고, 그에 대한 해결책 위주로 설명해주셨습니다. 그래서 내용을 이해하지 못한 것도 많이 있습니다. 아직 이해 못했다고 하더라도 나중에 보고 '대강 이러이러한 내용이었더라' 정도는 남기려고 게시글을 작성합니다. 발표자의 블로그는 [여기](https://charsyam.wordpress.com/)입니다.
 
