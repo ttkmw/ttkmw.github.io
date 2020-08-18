@@ -299,5 +299,30 @@ useRef Hook은 함수형 컴포넌트에서 ref를 쉽게 사용할 수 있도�
 
 ### 8.8 다른 Hooks
 
-https://nikgraf.github.io/react-hooks/
-https://github.com/rehooks/awesome-react-hooks
+[https://nikgraf.github.io/react-hooks/](https://nikgraf.github.io/react-hooks/)
+[https://github.com/rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+
+
+
+## 9. 컴포넌트 스타일링
+
+### 9.1 일반 css
+
+css 클래스를 중복되지 않게 해야한다. 그러기 위해 특별한 규칙을 사용하거나 css selector를 활용해야 한다.
+
+### 9.2 Sass 사용
+
+Sass는 css 전처리기로 복잡한 작업을 쉽게 할 수 있도록 해주고 스타일 코드의 재활용성을 높여 줄 뿐 아니라 코드의 가독성을 높여준다.
+
+여러 파일엫서 사용될 수 있는 Sass 변수 및 믹스인은 다른 파일로 따로 분리하여 작성한 뒤 필요한 곳에서 쉽게 불러와 사용할 수 있다.
+
+~를 활용하면 node_modules에서 라이브러리 디렉터리를 탐지하여 스타일을 불러올 수 있다.
+
+### 9.3 CSS Module
+
+css module은 css를 불러와서 사용할 때 클래스 이름을 고유한 값, 즉 [파일 이름]_[클래스 이름]__[해시값] 형태로 자동으로 만들어서 컴포넌트 스타일 클래스 이름이 중첩되는 현상을 방지해주는 기술이다. .module.css 확장자로 파일을 저장하기만 하면 css module이 적용된다.
+
+### 9.4 styled-components
+
+컴포넌트 스타일링의 또 다른 패러다임은 자바스크립트 파일 안에 스타일을 선언하는 방식이다. 이 방식을 'CSS-in-JS'라고 부른다. styled-components를 사용하면 자바스크립트 파일 하나에 스타일까지 작성할 수 있기 때문에 .css 또는 .scss 확장자를 가진 스타일 파일을 따로 만들지 않아도 된다는 이점이 있다. styled-components와 일반 classNames를 사용하는 CSS/Sass를 비교할 때, 가장 큰 장점은 props 값으로 전달해주는 값을 쉽게 스타일에 적용할 수 있다는 것이다.
+
