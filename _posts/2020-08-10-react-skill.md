@@ -326,3 +326,9 @@ css module은 css를 불러와서 사용할 때 클래스 이름을 고유한 �
 
 컴포넌트 스타일링의 또 다른 패러다임은 자바스크립트 파일 안에 스타일을 선언하는 방식이다. 이 방식을 'CSS-in-JS'라고 부른다. styled-components를 사용하면 자바스크립트 파일 하나에 스타일까지 작성할 수 있기 때문에 .css 또는 .scss 확장자를 가진 스타일 파일을 따로 만들지 않아도 된다는 이점이 있다. styled-components와 일반 classNames를 사용하는 CSS/Sass를 비교할 때, 가장 큰 장점은 props 값으로 전달해주는 값을 쉽게 스타일에 적용할 수 있다는 것이다.
 
+## 10. 일정 관리 웹 애플리케이션 만들기
+
+display 속성 중 flex: [Flexbox Froggy](http://flexboxfroggy.com/#ko)
+
+
+
