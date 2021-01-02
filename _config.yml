@@ -1,18 +1,18 @@
 # Site settings
-name: p-vibe's DevLog
+name: ttkmw's DevLog
 email: wom2277@naver.com
 author: Geunwon Lim
-url: https://p-vibe.github.io
+url: https://ttkmw.github.io
 resume_site:
-github: https://github.com/p-vibe
+github: https://github.com/ttkmw
 baseurl: ""
 description: my footprint on development
 meta_description:
 motto: Enjoy My Posts
-banner: Positive Vibe
+banner: Try To Keep My Word
 lsi: false
 safe: true
-source: https://p-vibe.github.io
+source: https://ttkmw.github.io
 incremental: false
 highlighter: rouge
 gist:
@@ -30,7 +30,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: p-vibe
+github_username: ttkmw
 
 # Build settings
 markdown: kramdown
